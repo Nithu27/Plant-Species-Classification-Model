@@ -1,4 +1,4 @@
-# Plant Identification using Machine Learning
+# Plant Species Identification using Machine Learning Models
 
 This project is a plant identification system built using various machine learning algorithms to classify and identify plants from images. The system leverages both traditional and deep learning techniques to provide a comprehensive approach to plant recognition.
 
