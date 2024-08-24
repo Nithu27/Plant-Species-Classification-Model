@@ -8,7 +8,7 @@ import os
 
 # Set the path to your dataset
 train_data_dir = '/content/train'
-test_data_dir = '/content/reduced'
+test_data_dir = '/content/test'
 
 # Parameters
 batch_size = 32
